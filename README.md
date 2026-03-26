@@ -1,6 +1,6 @@
 # Company - InternsElite
 Name - Rekha Bandgar
-Internship ID: AIML-A6/FEB-9026
+- Internship ID: AIML-A6/FEB-9026
 
 # 🫁 Pneumonia Detection from Chest X-ray Images
 
